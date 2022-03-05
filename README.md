@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 <!--
-**Akherox/Akherox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akherox/Akherox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking to collaborate on front end development, i know HTML5, CSS, JavaScript, AdobeXD and PhotoShop...
+An extra: WordPress, C#, MySQL and Quasar Framework.
+
+### 📫 How to reach me:
+
+- [Linkedin](https://linkedin.com/in/alex-bravo-008-mk)
+
+### 🤔 I’m looking for help with:
+
+-  To get employed
+
+### ⚡ Fun fact: 
+
+- I wanna start developing my own IA (but i still don't know how)
+
