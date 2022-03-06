@@ -24,6 +24,8 @@
   <!--   <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <!--   <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!--   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+    
+    ![Snake animation](https://github.com/Akherox/Akherox/blob/output/dist/github-contribution-grid-snake.svg)
 </div>
   
   ## 📫 How to reach me:
@@ -46,7 +48,7 @@
 - I wanna start developing my own IA (but i still don't know how)
    
 <div>
-  ![Snake animation](https://github.com/Akherox/Akherox/blob/output/dist/github-contribution-grid-snake.svg)   
+     
 </div>
   
 
