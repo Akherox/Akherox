@@ -1,6 +1,6 @@
 # Hi there, I'm Bryan Bravo👋
 
-#### I’m a Jr Developer and I look for to collaborate on Front End Development, I'm studying Full Stack Development and I've some experience with Quasar Framework.
+#### I'm a Jr Developer and I'm currently looking for a job on Front End Development. I'm studying Full Stack Development and I have some experience with Quasar Framework.
 
 <div align="center">
   <a href="https://github.com/Akherox">
@@ -39,11 +39,11 @@
    ## Notices:
 ### 🤔 I’m looking for help with:
 
--  To get employed
+-  Getting employed
 
 ### ⚡ Fun fact: 
 
-- I wanna start developing my own IA (but i still don't know how)
+- I want to start developing my own IA (but i still don't know how)
    
 <div>
     ![Snake animation](https://github.com/Akherox/Akherox/blob/output/dist/github-contribution-grid-snake.svg) 
