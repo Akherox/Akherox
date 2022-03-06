@@ -1,4 +1,3 @@
-# Controls when the workflow will run
 name: Generate Datas
 
 on:
