@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Akherox">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
   ## Skils:
@@ -24,8 +24,6 @@
   <!--   <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <!--   <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!--   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-    
-    ![Snake animation](https://github.com/Akherox/Akherox/blob/output/dist/github-contribution-grid-snake.svg)
 </div>
   
   ## 📫 How to reach me:
@@ -48,7 +46,7 @@
 - I wanna start developing my own IA (but i still don't know how)
    
 <div>
-     
+    ![Snake animation](https://github.com/Akherox/Akherox/blob/output/dist/github-contribution-grid-snake.svg) 
 </div>
   
 
