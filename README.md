@@ -46,8 +46,10 @@
 - I want to start developing my own IA (but i still don't know how)
    
 <div>
-   ![snake gif](https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation] (https://github.com/Akherox/Akherox/blob/output/dist/github-contribution-grid-snake.svg)
 </div>
+   
+   <!--    ![snake gif](https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg) -->
 
   
 
