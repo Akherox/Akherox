@@ -45,9 +45,8 @@
 
 - I want to start developing my own IA (but i still don't know how)
    
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg"/>
    
-   <!--    ![snake gif](https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg) -->
 
   
 
