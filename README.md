@@ -46,7 +46,7 @@
 - I want to start developing my own IA (but i still don't know how)
    
 <div>
-   ![snake gif](https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   
