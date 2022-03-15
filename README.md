@@ -2,13 +2,13 @@
 
 #### I'm a Jr Developer and I'm currently looking for a job on Front End Development. I'm studying Full Stack Development and I have some experience with Quasar Framework.
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 <div align="center">
   <a href="https://github.com/Akherox">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+  
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
   
   ## Skils:
 
