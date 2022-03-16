@@ -2,7 +2,7 @@
 
 <!--   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 <div align="right"> 
-  <img align="right" alt="GIF" src="https://github.com/Akherox/Akherox/blob/main/.github/workflows/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?raw=true" width=500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Akherox/Akherox/blob/main/.github/workflows/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?raw=true" width="500" height="320" />
 </div>
 
 #### I'm a Jr Developer and I'm currently looking for a job on Front End Development. I'm studying Full Stack Development and I have some experience with Quasar Framework.
@@ -35,29 +35,33 @@
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <br>
+  
     
   ## 📫 How to reach me:
   <!--   Web for social webs: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-    <a href="https://www.instagram.com/alexbm008" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://linkedin.com/in/alex-bravo-008-mk" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:bryanalexbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/alexbm008" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://linkedin.com/in/alex-bravo-008-mk" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:bryanalexbm@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
    <br>
         
 ### Some projects:   
    <div align="center">
   <a href="https://github.com/Akherox/academiapersonal">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=academiapersonal&theme=radical" />
+    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=academiapersonal&theme=radical" />
   </a>
   <a href="https://github.com/Akherox/pokedex">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
+    <img align="center" height="130em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
   </a>
 </div>
 <br>
-<p align="center"> 
+  <p align="center"> 
     Visitor count
     <br>
     <img src="https://profile-counter.glitch.me/akherox/count.svg" />
