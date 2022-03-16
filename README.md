@@ -54,10 +54,10 @@
 ### Some projects:   
    <div align="center">
   <a href="https://github.com/Akherox/academiapersonal">
-    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=academiapersonal&theme=radical" />
+    <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=academiapersonal&theme=radical" />
   </a>
   <a href="https://github.com/Akherox/pokedex">
-    <img align="center" height="130em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
+    <img align="center" height="100em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
   </a>
 </div>
 <br>
