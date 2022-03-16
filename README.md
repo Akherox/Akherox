@@ -18,7 +18,14 @@
   <a href="https://github.com/Akherox">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Akherox/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=github-readme-stats&theme=radical" />
+  </a>
+  <a href="https://github.com/Akherox/pokedex">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=github-readme-stats&theme=radical" />
+  </a>
 </div>
+
   <br>
   
   ## Skils:
