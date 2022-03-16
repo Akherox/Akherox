@@ -20,11 +20,11 @@
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=radical"/>
 </div>
       <br>
-  <div aling="center">
-    <a href="https://github.com/Akherox/github-readme-stats">
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=github-readme-stats&theme=radical" />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/Akherox/github-readme-stats">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=github-readme-stats&theme=radical" />
+  </a>
+</div>
   <br>
   
   ## Skils:
