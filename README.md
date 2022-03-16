@@ -21,8 +21,11 @@
 </div>
       <br>
 <div align="center">
-  <a href="https://github.com/Akherox/github-readme-stats">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=github-readme-stats&theme=radical" />
+  <a href="https://github.com/Akherox/academiapersonal">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=academiapersonal&theme=radical" />
+  </a>
+  <a href="https://github.com/Akherox/pokedex">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
   </a>
 </div>
   <br>
