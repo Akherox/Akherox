@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1rem"> Hello world! I'm Bryan Bravo&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="1rem">
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world! I'm Bryan Bravo
 
 <!--   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 <div align="right"> 
@@ -41,7 +41,7 @@
   <!--   Web for social webs: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+    <a href="[[https://www.twitch.tv/rafaballerinii](https://twitter.com/Bryanalexbm1)](https://twitter.com/Bryanalexbm1)" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
     <a href="https://www.instagram.com/alexbm008" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://linkedin.com/in/alex-bravo-008-mk" target="_blank">
@@ -50,6 +50,16 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
    <br>
+  
+  ## 🏃 Recent Github Activities
+<!--START_SECTION:activity-->
+`[06/21 01:55]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/Akherox/Akherox)  
+`[06/05 14:01]` <img alt="➕" src="https://github.com/Akherox/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [g0621/learn](https://github.com/g0621/learn)  
+`[06/05 01:54]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [Akherox/Akherox](https://github.com/Akherox/Akherox)  
+`[03/27 06:01]` <img alt="⭐" src="https://github.com/Akherox/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [Akherox/leetcode-patterns](https://github.com/Akherox/leetcode-patterns)  
+`[03/27 01:31]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Akherox/Akherox](https://github.com/Akherox/Akherox) 
+  
+  <br>
         
 ### Some projects:   
    <div align="center">
