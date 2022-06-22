@@ -51,13 +51,13 @@
 </div>
    <br>
   
-  ## 🏃 Recent Github Activities
+<!--   ## 🏃 Recent Github Activities -->
 <!--START_SECTION:activity-->
-`[06/06 01:55]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/Akherox/Akherox)  
+<!-- `[06/06 01:55]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/Akherox/Akherox)  
 `[28/05 14:01]` <img alt="➕" src="https://github.com/Akherox/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Akherox/learn](https://github.com/Akherox/learn)  
 `[19/05 01:54]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [Akherox/Akherox](https://github.com/Akherox/Akherox)  
 `[11/05 06:01]` <img alt="⭐" src="https://github.com/Akherox/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [Akherox/leetcode-patterns](https://github.com/Akherox/leetcode-patterns)  
-`[25/04 01:31]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `147` commit in [Akherox/Akherox](https://github.com/Akherox/Akherox) 
+`[25/04 01:31]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `147` commit in [Akherox/Akherox](https://github.com/Akherox/Akherox)  -->
   
   <br>
         
