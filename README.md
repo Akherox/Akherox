@@ -7,21 +7,25 @@
 
 #### I'm a Jr Developer and I'm currently looking for a job on Front End Development. I'm studying Full Stack Development and I have some experience with Quasar Framework.
    
-  ## Skils:
-
+## Skils:
 <!--   //Web for icons: https://devicon.dev/ -->
-  <div style="display: inline_block"><br>
+<div style="display: inline_block">
+<br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Alex-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
-  <img align="center" alt="Alex-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
-  <img align="center" alt="Alex-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"> 
-    
+  <img align="center" alt="Alex-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Alex-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
+  <img align="center" alt="Alex-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
+  <img align="center" alt="Alex-AdobeXd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"> 
+  <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alex-Bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
+  <img align="center" alt="Alex-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+          
+          
   <!--   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> -->
   <!--   <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!--   <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!--   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
   <br>                
@@ -34,10 +38,9 @@
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  <br>
-  
+ <br>
     
-  ## 📫 How to reach me:
+## 📫 How to reach me:
   <!--   Web for social webs: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
@@ -69,6 +72,9 @@
   <a href="https://github.com/Akherox/pokedex">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
   </a>
+</div>
+  <br>
+<div align="center">
   <a href="https://github.com/Akherox/marvel-pvp">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=marvel-pvp&theme=radical" />
   </a>
@@ -77,13 +83,13 @@
   </a>
 </div>
 <br>
-  <p align="center"> 
+<p align="center"> 
     Visitor count
     <br>
     <img src="https://profile-counter.glitch.me/akherox/count.svg" />
 </p>
 
-   ## Notices:
+## Notices:
 ### 🤔 I’m looking for help with:
 
 -  Getting employed
