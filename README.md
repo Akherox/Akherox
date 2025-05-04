@@ -45,14 +45,11 @@
   <!--   Web for social webs: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://portfolio-v2-w4kb-git-main-akheroxs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/resend?style=for-the-badge&logo=resend&logoColor=white" alt="About Me"/></a>
-    <a href="[https://twitter.com/Bryanalexbm1](https://twitter.com/Bryanalexbm1)" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-    <a href="https://www.instagram.com/alexbm008" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/alex-bravo-008-mk" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:bryanalexbm@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-v2-w4kb-git-main-akheroxs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/About_Me-grey?style=for-the-badge&logo=readme&logoColor=white" alt="About Me Button"/></a>
+  <a href="https://twitter.com/Bryanalexbm1" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.instagram.com/alexbm008" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+  <a href="https://linkedin.com/in/alex-bravo-008-mk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" alt="Linkedin Badge"></a> 
+  <a href="mailto:bryanalexbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
    <br>
   
