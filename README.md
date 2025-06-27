@@ -77,8 +77,8 @@
   <a href="https://github.com/Akherox/marvel-pvp">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=marvel-pvp&theme=radical" />
   </a>
-  <a href="https://github.com/Akherox/demon-slayer-slider">
-    <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=demon-slayer-slider&theme=radical" />
+  <a href="https://github.com/Akherox/pokedex-complex">
+    <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex-complex&theme=radical" />
   </a>
 </div>
 <br>
