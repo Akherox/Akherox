@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" src="https://github.com/Akherox/Akherox/blob/main/.github/workflows/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?raw=true" width="500" height="320" />
 </div>
 
-#### I'm a Junior Developer and I'm currently looking for new job opportunities in Front End Development. I'm studying Full Stack Development and I have more than 2 years of experience as a Front End developer.
+#### I'm a Junior Developer and I'm currently looking for new job opportunities in Front End Development. I'm studying Full Stack Development and I have more than 3 years of experience as a Front End developer.
    
 ## Skils:
 <!--   //Web for icons: https://devicon.dev/ -->
