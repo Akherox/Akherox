@@ -1,6 +1,151 @@
+<div align="center">
+
+# Bryan Bravo
+
+### Full Stack Developer • Frontend Engineering • Enterprise Systems
+
+Software developer with 4+ years of experience building and maintaining production systems, focused on frontend development, system integration, reporting automation, and enterprise applications.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-bravo-008-mk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v2-w4kb-git-main-akheroxs-projects.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanalexbm@gmail.com)
+
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,html,css,vue,react" />
+
+### Backend & Systems
+
+<img src="https://skillicons.dev/icons?i=cs,nodejs,sqlite" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,docker,figma,wordpress,bitbucket,photoshop,xd" />
+
+</div>
+
+---
+
+# Current Focus
+
+```txt
+• Enterprise Applications
+• Frontend Architecture
+• REST API Integration
+• Reporting Automation
+• Performance Optimization
+• System Reliability
+• Scalable Interfaces
+```
+
+---
+
+# Professional Experience
+
+### Software Developer — Plasutil Industria e Comércio de Plásticos
+`2025 — Present`
+
+- Enterprise desktop applications using C# and Windows Forms
+- Zebra ZPL label printing automation
+- Crystal Reports development and maintenance
+- Internal systems integration and operational workflows
+- Production issue diagnosis and system reliability improvements
+
+### Frontend Developer — Cordis Terapia e Desenvolvimento
+`2022 — 2025`
+
+- Responsive interfaces using Vue.js and Quasar
+- REST API integration
+- Reusable UI component development
+- Agile workflows with Git, Docker, Jira, and Figma
+
+---
+
+# Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Akherox/portofolio">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=portofolio&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Akherox/pokedex">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=pokedex&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Akherox/marvel-pvp">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=marvel-pvp&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Akherox/pokedex-complex">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=pokedex-complex&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akherox&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akherox&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# Education
+
+### BYU–Pathway Worldwide
+**Bachelor's Degree in Software Development (In Progress)**
+
+Focused on:
+- Web Development
+- Software Development
+- Programming Fundamentals
+- Problem Solving
+
+---
+
+# Certifications
+
+- Full Stack Development — Toti
+- Computer Application Development — SENAC
+
+---
+
+# Languages
+
+- Spanish — Native
+- Portuguese — Fluent
+- English — Intermediate
+
+---
+
+<div align="center">
+
+### Building reliable systems and modern interfaces.
+
+</div>
+
+
+<!--
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world! I'm Bryan Bravo
 
-<!--   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
+   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <div align="right"> 
   <img align="right" alt="GIF" src="https://github.com/Akherox/Akherox/blob/main/.github/workflows/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?raw=true" width="500" height="320" />
 </div>
@@ -8,7 +153,7 @@
 #### I'm a Junior Developer and I'm currently looking for new job opportunities in Front End Development. I'm studying Full Stack Development and I have more than 3 years of experience as a Front End developer.
    
 ## Skils:
-<!--   //Web for icons: https://devicon.dev/ -->
+   //Web for icons: https://devicon.dev/ 
 <div style="display: inline_block">
 <br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,9 +170,9 @@
   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
           
           
-  <!--   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> -->
-  <!--   <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!--   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+    <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> 
+     <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+     <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
   <br>                
                  
@@ -42,9 +187,9 @@
  <br>
     
 ## 📫 How to reach me:
-  <!--   Web for social webs: https://dev.to/envoy_/150-badges-for-github-pnk -->
+     Web for social webs: https://dev.to/envoy_/150-badges-for-github-pnk 
 <div>
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+ <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://portfolio-v2-w4kb-git-main-akheroxs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/About_Me-grey?style=for-the-badge&logo=readme&logoColor=white" alt="About Me Button"/></a>
   <a href="https://twitter.com/Bryanalexbm1" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.instagram.com/alexbm008" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
@@ -53,13 +198,13 @@
 </div>
    <br>
   
-<!--   ## 🏃 Recent Github Activities -->
-<!--START_SECTION:activity-->
-<!-- `[06/06 01:55]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/Akherox/Akherox)  
+   ## 🏃 Recent Github Activities 
+START_SECTION:activity-
+ `[06/06 01:55]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/Akherox/Akherox)  
 `[28/05 14:01]` <img alt="➕" src="https://github.com/Akherox/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Akherox/learn](https://github.com/Akherox/learn)  
 `[19/05 01:54]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [Akherox/Akherox](https://github.com/Akherox/Akherox)  
 `[11/05 06:01]` <img alt="⭐" src="https://github.com/Akherox/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [Akherox/leetcode-patterns](https://github.com/Akherox/leetcode-patterns)  
-`[25/04 01:31]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `147` commit in [Akherox/Akherox](https://github.com/Akherox/Akherox)  -->
+`[25/04 01:31]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `147` commit in [Akherox/Akherox](https://github.com/Akherox/Akherox)  
   
   <br>
         
@@ -98,5 +243,4 @@
 - I want to start developing my own IA (but i still don't know how)
    
 <img src="https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg"/>
-   
-   
+   -->
