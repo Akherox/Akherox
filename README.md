@@ -68,28 +68,28 @@ Developer with 4+ years of experience building and maintaining production system
 <a href="https://github.com/Akherox/portofolio">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=portofolio&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=portofolio&theme=tokyonight&hide_border=true"
   />
 </a>
 
 <a href="https://github.com/Akherox/pokedex">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex&theme=tokyonight&hide_border=true"
   />
 </a>
 
 <a href="https://github.com/Akherox/marvel-pvp">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=marvel-pvp&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=marvel-pvp&theme=tokyonight&hide_border=true"
   />
 </a>
 
 <a href="https://github.com/Akherox/pokedex-complex">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex-complex&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex-complex&theme=tokyonight&hide_border=true"
   />
 </a>
 
@@ -103,12 +103,12 @@ Developer with 4+ years of experience building and maintaining production system
 
 <img
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akherox&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akherox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akherox&layout=compact&theme=github_dark&hide_border=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akherox&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <img
