@@ -2,15 +2,26 @@
 
 # Bryan Bravo
 
-### Full Stack Developer • Frontend Engineering • Enterprise Systems
+### Full Stack Developer  
+Frontend Engineering • Enterprise Applications • System Integration
 
-Software developer with 4+ years of experience building and maintaining production systems, focused on frontend development, system integration, reporting automation, and enterprise applications.
+<p>
+Developer with 4+ years of experience building and maintaining production systems focused on frontend architecture, enterprise software, reporting automation, REST integrations, and scalable interfaces.
+</p>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-bravo-008-mk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v2-w4kb-git-main-akheroxs-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanalexbm@gmail.com)
+<a href="https://linkedin.com/in/alex-bravo-008-mk">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-v2-w4kb-git-main-akheroxs-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:bryanalexbm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -20,15 +31,15 @@ Software developer with 4+ years of experience building and maintaining producti
 
 <div align="center">
 
-### Frontend
+## Frontend
 
-<img src="https://skillicons.dev/icons?i=js,html,css,vue,react" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,pinia,quasar" />
 
-### Backend & Systems
+## Backend & Systems
 
-<img src="https://skillicons.dev/icons?i=cs,nodejs,sqlite" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,sqlite" />
 
-### Tools & Platforms
+## Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,docker,figma,wordpress,bitbucket,photoshop,xd" />
 
@@ -36,38 +47,17 @@ Software developer with 4+ years of experience building and maintaining producti
 
 ---
 
-# Current Focus
+# Professional Focus
 
 ```txt
-• Enterprise Applications
+• Enterprise Software Development
 • Frontend Architecture
 • REST API Integration
-• Reporting Automation
+• Reporting & Process Automation
 • Performance Optimization
 • System Reliability
-• Scalable Interfaces
+• Scalable UI Development
 ```
-
----
-
-# Professional Experience
-
-### Software Developer — Plasutil Industria e Comércio de Plásticos
-`2025 — Present`
-
-- Enterprise desktop applications using C# and Windows Forms
-- Zebra ZPL label printing automation
-- Crystal Reports development and maintenance
-- Internal systems integration and operational workflows
-- Production issue diagnosis and system reliability improvements
-
-### Frontend Developer — Cordis Terapia e Desenvolvimento
-`2022 — 2025`
-
-- Responsive interfaces using Vue.js and Quasar
-- REST API integration
-- Reusable UI component development
-- Agile workflows with Git, Docker, Jira, and Figma
 
 ---
 
@@ -76,19 +66,31 @@ Software developer with 4+ years of experience building and maintaining producti
 <div align="center">
 
 <a href="https://github.com/Akherox/portofolio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=portofolio&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=portofolio&theme=github_dark&hide_border=true"
+  />
 </a>
 
 <a href="https://github.com/Akherox/pokedex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=pokedex&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex&theme=github_dark&hide_border=true"
+  />
 </a>
 
 <a href="https://github.com/Akherox/marvel-pvp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=marvel-pvp&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=marvel-pvp&theme=github_dark&hide_border=true"
+  />
 </a>
 
 <a href="https://github.com/Akherox/pokedex-complex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akherox&repo=pokedex-complex&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex-complex&theme=github_dark&hide_border=true"
+  />
 </a>
 
 </div>
@@ -99,45 +101,52 @@ Software developer with 4+ years of experience building and maintaining producti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akherox&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img
+  height="165"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akherox&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akherox&layout=compact&theme=transparent&hide_border=true" />
+<img
+  height="165"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akherox&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+<img
+  height="165"
+  src="https://streak-stats.demolab.com?user=Akherox&theme=github-dark-blue&hide_border=true"
+/>
 
 </div>
 
 ---
 
-# Education
+# Achievements
 
-### BYU–Pathway Worldwide
-**Bachelor's Degree in Software Development (In Progress)**
+<div align="center">
 
-Focused on:
-- Web Development
-- Software Development
-- Programming Fundamentals
-- Problem Solving
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Akherox&theme=algolia&no-frame=true&margin-w=8&row=1"
+/>
 
----
-
-# Certifications
-
-- Full Stack Development — Toti
-- Computer Application Development — SENAC
+</div>
 
 ---
 
-# Languages
+# Contribution Activity
 
-- Spanish — Native
-- Portuguese — Fluent
-- English — Intermediate
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Akherox&theme=react-dark&hide_border=true"
+/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building reliable systems and modern interfaces.
+### Building reliable systems and modern digital experiences.
 
 </div>
 
