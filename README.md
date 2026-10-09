@@ -65,31 +65,31 @@ Developer with 4+ years of experience building and maintaining production system
 
 <div align="center">
 
-<a href="https://github.com/Akherox/portofolio">
+<a href="https://github.com/akherox/portofolio">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=portofolio&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=portofolio&theme=tokyonight&hide_border=true"
   />
 </a>
 
-<a href="https://github.com/Akherox/pokedex">
+<a href="https://github.com/akherox/pokedex">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=tokyonight&hide_border=true"
   />
 </a>
 
-<a href="https://github.com/Akherox/marvel-pvp">
+<a href="https://github.com/akherox/marvel-pvp">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=marvel-pvp&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=marvel-pvp&theme=tokyonight&hide_border=true"
   />
 </a>
 
-<a href="https://github.com/Akherox/pokedex-complex">
+<a href="https://github.com/akherox/pokedex-complex">
   <img
     width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Akherox&repo=pokedex-complex&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=pokedex-complex&theme=tokyonight&hide_border=true"
   />
 </a>
 
@@ -103,17 +103,17 @@ Developer with 4+ years of experience building and maintaining production system
 
 <img
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akherox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=akherox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akherox&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akherox&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <img
   height="165"
-  src="https://streak-stats.demolab.com?user=Akherox&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=akherox&theme=github-dark-blue&hide_border=true"
 />
 
 </div>
@@ -125,7 +125,7 @@ Developer with 4+ years of experience building and maintaining production system
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=Akherox&theme=algolia&no-frame=true&margin-w=8&row=1"
+  src="https://github-profile-trophy.vercel.app/?username=akherox&theme=algolia&no-frame=true&margin-w=8&row=1"
 />
 
 </div>
@@ -137,7 +137,7 @@ Developer with 4+ years of experience building and maintaining production system
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Akherox&theme=react-dark&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=akherox&theme=react-dark&hide_border=true"
 />
 
 </div>
@@ -156,7 +156,7 @@ Developer with 4+ years of experience building and maintaining production system
 
    ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <div align="right"> 
-  <img align="right" alt="GIF" src="https://github.com/Akherox/Akherox/blob/main/.github/workflows/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/akherox/akherox/blob/main/.github/workflows/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?raw=true" width="500" height="320" />
 </div>
 
 #### I'm a Junior Developer and I'm currently looking for new job opportunities in Front End Development. I'm studying Full Stack Development and I have more than 3 years of experience as a Front End developer.
@@ -189,7 +189,7 @@ Developer with 4+ years of experience building and maintaining production system
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/Akherox">
+  <a href="https://github.com/akherox">
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -209,29 +209,29 @@ Developer with 4+ years of experience building and maintaining production system
   
    ## 🏃 Recent Github Activities 
 START_SECTION:activity-
- `[06/06 01:55]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/Akherox/Akherox)  
-`[28/05 14:01]` <img alt="➕" src="https://github.com/Akherox/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Akherox/learn](https://github.com/Akherox/learn)  
-`[19/05 01:54]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [Akherox/Akherox](https://github.com/Akherox/Akherox)  
-`[11/05 06:01]` <img alt="⭐" src="https://github.com/Akherox/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [Akherox/leetcode-patterns](https://github.com/Akherox/leetcode-patterns)  
-`[25/04 01:31]` <img alt="📝" src="https://github.com/Akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `147` commit in [Akherox/Akherox](https://github.com/Akherox/Akherox)  
+ `[06/06 01:55]` <img alt="📝" src="https://github.com/akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Akerox/Akerox](https://github.com/akherox/akherox)  
+`[28/05 14:01]` <img alt="➕" src="https://github.com/akherox/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akherox/learn](https://github.com/akherox/learn)  
+`[19/05 01:54]` <img alt="📝" src="https://github.com/akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [akherox/akherox](https://github.com/akherox/akherox)  
+`[11/05 06:01]` <img alt="⭐" src="https://github.com/akherox/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [akherox/leetcode-patterns](https://github.com/akherox/leetcode-patterns)  
+`[25/04 01:31]` <img alt="📝" src="https://github.com/akherox/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `147` commit in [akherox/akherox](https://github.com/akherox/akherox)  
   
   <br>
         
 ### Some projects:   
 <div align="center">
-  <a href="https://github.com/Akherox/portofolio">
+  <a href="https://github.com/akherox/portofolio">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=portofolio&theme=radical" />
   </a>
-  <a href="https://github.com/Akherox/pokedex">
+  <a href="https://github.com/akherox/pokedex">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=radical" />
   </a>
 </div>
   <br>
 <div align="center">
-  <a href="https://github.com/Akherox/marvel-pvp">
+  <a href="https://github.com/akherox/marvel-pvp">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=marvel-pvp&theme=radical" />
   </a>
-  <a href="https://github.com/Akherox/pokedex-complex">
+  <a href="https://github.com/akherox/pokedex-complex">
     <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex-complex&theme=radical" />
   </a>
 </div>
@@ -251,5 +251,5 @@ START_SECTION:activity-
 
 - I want to start developing my own IA (but i still don't know how)
    
-<img src="https://github.com/Akherox/Akherox/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/akherox/akherox/blob/output/github-contribution-grid-snake.svg"/>
    -->
